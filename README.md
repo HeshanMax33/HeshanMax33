@@ -1,31 +1,21 @@
 <h1 align="center">Hi 👋, I'm Heshan Senanayaka</h1>
 <h3 align="center">A passionate developer dedicated to mastering Software Development</h3>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=HeshanMax33&show_icons=true&locale=en" alt="HeshanMax33" />
-</p>
-
----
-
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/HeshanMax33?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/HeshanMax33?tab=repositories](https://github.com/HeshanMax33?tab=repositories)
 
 - 📫 How to reach me **heshan04se@gmail.com**
 
----
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/heshan-senanayaka/?jobid=1234" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Heshan Senanayaka" height="30" width="40" />
-    </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/heshan-senanayaka/?jobid=1234" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Heshan Senanayaka" height="30" width="40" />
+</a>
 </p>
 
----
-
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     </a>
@@ -100,7 +90,9 @@
     </a>
 </p>
 
----
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=HeshanMax33&show_icons=true&locale=en" alt="HeshanMax33" />
+</p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HeshanMax33&show_icons=true&locale=en&layout=compact" alt="HeshanMax33" />
